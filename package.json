@@ -1,0 +1,24 @@
+{
+  "name": "meteor-tutorial-one",
+  "version": "1.0.0",
+  "description": "myTodos App",
+  "main": "main.js",
+  "dependencies": {
+    "babel-runtime": "^6.18.0",
+    "meteor-node-stubs": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockchalkwushock/meteor-tutorial-one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockchalkwushock/meteor-tutorial-one/issues"
+  },
+  "homepage": "https://github.com/rockchalkwushock/meteor-tutorial-one#readme"
+}
