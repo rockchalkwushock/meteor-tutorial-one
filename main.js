@@ -16,7 +16,7 @@ if (Meteor.isClient) {
 
       Meteor.call('addTodo', text);
       // clear form
-      text = '';
+      event.target.text.value = '';
     },
     'click .toggle-checked': function() {
       Meteor.call('setChecked', this._id, !this.checked);
