@@ -16,5 +16,16 @@ To see the end product visit: [CodysTodos](https://codystodos.herokuapp.com).
   7. When you sign out your list is viewable from the main screen but not-editable.
   8. If another user is present and has a list their todos will be visible from the main screen as well.
   9. No user has access to another user's todo list when it comes to editing.
-  
-  
+
+
+  ![Landing](https://github.com/rockchalkwushock/meteor-tutorial-one/blob/master/img/MainScreen.png "Landing")
+  ![SignIn](https://github.com/rockchalkwushock/meteor-tutorial-one/blob/master/img/SignIn.png "SignIn")
+  ![CreateAccount](https://github.com/rockchalkwushock/meteor-tutorial-one/blob/master/img/CreateAccount.png "CreateAccount")
+  ![CodySignedIn](https://github.com/rockchalkwushock/meteor-tutorial-one/blob/master/img/SignedInAsCody.png "CodySignedIn")
+  ![CodyAddTodos](https://github.com/rockchalkwushock/meteor-tutorial-one/blob/master/img/CodyAddTodos.png "CodyAddTodos")
+  ![CodyChecked](https://github.com/rockchalkwushock/meteor-tutorial-one/blob/master/img/CodyChecked.png "CodyChecked")
+  ![CodysListSignedout](https://github.com/rockchalkwushock/meteor-tutorial-one/blob/master/img/CodysListSignedout.png "CodysListSignedout")
+  ![DeletePrompt](https://github.com/rockchalkwushock/meteor-tutorial-one/blob/master/img/DeletePrompt.png "DeletePrompt")
+  ![CodyDeleteTodo](https://github.com/rockchalkwushock/meteor-tutorial-one/blob/master/img/CodyDeleteTodo.png "CodyDeleteTodo")
+  ![JohnAddTodos](https://github.com/rockchalkwushock/meteor-tutorial-one/blob/master/img/JohnAddTodos.png "JohnAddTodos")
+  ![MainScreenBoth](https://github.com/rockchalkwushock/meteor-tutorial-one/blob/master/img/MainScreenBoth.png "MainScreenBoth")
